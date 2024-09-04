@@ -1,3 +1,6 @@
+<div align="center">
+    <a href="https://sophia-dev.io/resume">Resume</a>
+</div>
 <h1 align="center">
     🌧<br /><br />
     😔<br />
